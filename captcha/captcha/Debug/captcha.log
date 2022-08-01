@@ -1,0 +1,25 @@
+﻿Build started 18-11-2021 23:11:25.
+     1>Project "C:\Users\Gaurav\Documents\Visual Studio 2010\Projects\captcha\captcha\captcha.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\captcha.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       CoreResGen:
+         No resources are out of date with respect to their source files. Skipping resource generation.
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         captcha.vcxproj -> C:\Users\Gaurav\Documents\Visual Studio 2010\Projects\captcha\Debug\captcha.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\captcha.unsuccessfulbuild".
+         Touching "Debug\captcha.lastbuildstate".
+     1>Done Building Project "C:\Users\Gaurav\Documents\Visual Studio 2010\Projects\captcha\captcha\captcha.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.09
